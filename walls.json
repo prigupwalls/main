@@ -1,4 +1,14 @@
 [
+	{
+		"name": "Webp Image",
+		"author": "unknown",
+		"url": "https://www.gstatic.com/webp/gallery/4.webp",
+		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
+		"dimensions": "3200x2560",
+		"copyright": "Unknown",
+		"collections": "landscapes"
+	},
+	
       {
 		"name": "Abstract 1",
 		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%201",
