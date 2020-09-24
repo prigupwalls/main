@@ -1,115 +1,134 @@
 [
       {
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
+		"name": "Abstract 1",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%201",
+		"collections": "Abstract"
 	},
-      {
-		"name": "ShotA",
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-		"collections": "featured,landscapes,people"
-	},
+	
 	{
-		"name": "ShotB",
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-		"dimensions": "3200x2560",
-		"collections": "people,city",
-		"downloadable": false
+		"name": "Abstract 2",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%202",
+		"collections": "Abstract"
 	},
+	
 	{
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-		"name": "ShotC",
-		"dimensions": "1280x720",
-		"copyright": "Credits to its creator",
-		"collections": "landscapes,city"
+		"name": "Abstract 3",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%203",
+		"collections": "Abstract"
 	},
+	
 	{
-		"name": "Wallsplash 1",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,city",
-		"featured": true
+		"name": "Abstract 4",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%204",
+		"collections": "Abstract"
 	},
+	
 	{
-		"name": "Wallsplash 2",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,food"
+		"name": "Abstract 5",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%205",
+		"collections": "Abstract"
 	},
+	
 	{
-		"name": "Wallsplash 3",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-		"thumbnail": "https://via.placeholder.com/450",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,food,people"
+		"name": "Abstract 6",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%206",
+		"collections": "Abstract"
 	},
+	
 	{
-		"name": "Wallsplash 4",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "landscapes,people,city"
+		"name": "Abstract 7",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%207",
+		"collections": "Abstract"
 	},
+	
 	{
-		"name": "Wallsplash 5",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes"
+		"name": "Abstract 8",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%208",
+		"collections": "Abstract"
 	},
+	
 	{
-		"name": "Wallsplash 6",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,people"
+		"name": "Abstract 9",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%209",
+		"collections": "Abstract"
 	},
+	
 	{
-		"name": "Wallsplash 7",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-		"thumbnail": "https://via.placeholder.com/500",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "landscapes,people"
+		"name": "Abstract 10",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%2010",
+		"collections": "Abstract"
 	},
+	
 	{
-		"name": "Wallsplash 8",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-		"thumbnail": "https://via.placeholder.com/150",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "food"
+		"name": "Abstract 11",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%2011",
+		"collections": "Abstract"
 	},
+	
 	{
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
-	}
+		"name": "Abstract 12",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%2012",
+		"collections": "Abstract"
+	},
+	
+	{
+		"name": "Abstract 13",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%2013",
+		"collections": "Abstract"
+	},
+	
+	{
+		"name": "Abstract 14",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%2014",
+		"collections": "Abstract"
+	},
+	
+	{
+		"name": "Abstract 15",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%2015",
+		"collections": "Abstract"
+	},
+	
+	{
+		"name": "Abstract 16",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%2016",
+		"collections": "Abstract"
+	},
+	
+	{
+		"name": "Abstract 17",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%2017",
+		"collections": "Abstract"
+	},
+	
+	{
+		"name": "Abstract 18",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%2018",
+		"collections": "Abstract"
+	},
+	
+	{
+		"name": "Abstract 19",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%2019",
+		"collections": "Abstract"
+	},
+	
+	{
+		"name": "Abstract 20",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%2020",
+		"collections": "Abstract"
+	},
+	
+	{
+		"name": "Abstract 21",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%2021",
+		"collections": "Abstract"
+	},
+	
+	{
+		"name": "Abstract 22",
+		"url": "https://walls.gpriworld.workers.dev/0:/Abstract%20/Abstract%2022",
+		"collections": "Abstract"
+	},
+
 ]
