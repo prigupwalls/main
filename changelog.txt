@@ -1,1 +1,7 @@
-dfbdfhdj
+Device Changelog
+- Shipped with Lawnchair
+- Moved ZenParts to ZenHub > Device Parts
+- Added Pixel Offline Charging Animation
+- Fixed Statusbar Padding
+- Fixed QS System Info
+
